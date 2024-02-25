@@ -15,5 +15,5 @@ Hello! This is Bankatesh alias Abir Shandil, a Lead - Data Scientist, Machine Le
 #### Birla Institute of Technology Mesra (BIT Mesra)
 ##### Graduated: 2018
 
-### Bachelor's of Science (B.Sc) in Computer Science.
+### Bachelor of Science (B.Sc) in Computer Science.
 ##### Graduated: 2013
